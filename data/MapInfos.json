@@ -1,15 +1,23 @@
 [
 null,
+<<<<<<< HEAD
 {"id":1,"expanded":true,"name":"同桌的家","order":28,"parentId":19,"scrollX":720.8888888888889,"scrollY":548.4444444444445},
 {"id":2,"expanded":false,"name":"下课的教室","order":6,"parentId":39,"scrollX":720.8888888888889,"scrollY":418.6666666666667},
 {"id":3,"expanded":false,"name":"学校寝室","order":11,"parentId":4,"scrollX":728,"scrollY":397.3333333333333},
 {"id":4,"expanded":true,"name":"学校","order":2,"parentId":11,"scrollX":728,"scrollY":397.3333333333333},
+=======
+{"id":1,"expanded":true,"name":"同桌的家","order":28,"parentId":19,"scrollX":811,"scrollY":548},
+{"id":2,"expanded":false,"name":"下课的教室","order":6,"parentId":39,"scrollX":2457,"scrollY":1356},
+{"id":3,"expanded":false,"name":"学校寝室","order":11,"parentId":4,"scrollX":540.6666666666666,"scrollY":322.6666666666667},
+{"id":4,"expanded":true,"name":"学校","order":2,"parentId":11,"scrollX":2457,"scrollY":1356},
+>>>>>>> 64a7e5c25af0b9853e3ff53e22bbf9f76cc44ec2
 {"id":5,"expanded":true,"name":"第二栋","order":12,"parentId":3,"scrollX":540.6666666666666,"scrollY":322.6666666666667},
 {"id":6,"expanded":true,"name":"第三栋","order":13,"parentId":5,"scrollX":595.3333333333334,"scrollY":296},
 {"id":7,"expanded":true,"name":"寝室","order":15,"parentId":6,"scrollX":648.8,"scrollY":374.4},
 {"id":8,"expanded":true,"name":"地下室","order":24,"parentId":18,"scrollX":1089.3333333333333,"scrollY":594.6666666666666},
 {"id":9,"expanded":false,"name":"地下","order":25,"parentId":8,"scrollX":1089.3333333333333,"scrollY":594.6666666666666},
 {"id":10,"expanded":false,"name":"厕所","order":16,"parentId":7,"scrollX":655.2,"scrollY":361.6},
+<<<<<<< HEAD
 {"id":11,"expanded":true,"name":"南方地区","order":1,"parentId":0,"scrollX":1390.2222222222222,"scrollY":927.1111111111111},
 {"id":12,"expanded":false,"name":"房顶","order":14,"parentId":6,"scrollX":655.2,"scrollY":361.6},
 {"id":13,"expanded":true,"name":"家里","order":27,"parentId":19,"scrollX":720.8888888888889,"scrollY":667.5555555555555},
@@ -19,6 +27,17 @@ null,
 {"id":17,"expanded":false,"name":"上层","order":20,"parentId":16,"scrollX":728,"scrollY":397.3333333333333},
 {"id":18,"expanded":false,"name":"第一层","order":23,"parentId":38,"scrollX":1228.5,"scrollY":678},
 {"id":19,"expanded":true,"name":"第二层","order":26,"parentId":38,"scrollX":728,"scrollY":397.3333333333333},
+=======
+{"id":11,"expanded":false,"name":"南方地区","order":1,"parentId":0,"scrollX":973.1999999999999,"scrollY":1315.2},
+{"id":12,"expanded":false,"name":"房顶","order":14,"parentId":6,"scrollX":655.2,"scrollY":361.6},
+{"id":13,"expanded":true,"name":"家里","order":27,"parentId":19,"scrollX":884.7272727272727,"scrollY":667.6363636363636},
+{"id":14,"expanded":false,"name":"健身房","order":17,"parentId":11,"scrollX":1089.3333333333333,"scrollY":594.6666666666666},
+{"id":15,"expanded":false,"name":"刀具店","order":18,"parentId":11,"scrollX":791.2,"scrollY":594.4},
+{"id":16,"expanded":true,"name":"港口","order":19,"parentId":11,"scrollX":832,"scrollY":640},
+{"id":17,"expanded":false,"name":"上层","order":20,"parentId":16,"scrollX":540.6666666666666,"scrollY":322.6666666666667},
+{"id":18,"expanded":false,"name":"第一层","order":23,"parentId":38,"scrollX":1228.5,"scrollY":678},
+{"id":19,"expanded":true,"name":"第二层","order":26,"parentId":38,"scrollX":1089.3333333333333,"scrollY":594.6666666666666},
+>>>>>>> 64a7e5c25af0b9853e3ff53e22bbf9f76cc44ec2
 {"id":20,"expanded":false,"name":"商店","order":21,"parentId":11,"scrollX":728,"scrollY":401.77777777777777},
 null,
 null,
@@ -33,12 +52,21 @@ null,
 null,
 null,
 null,
+<<<<<<< HEAD
 {"id":34,"expanded":true,"name":"学校一楼","order":3,"parentId":4,"scrollX":1390.2222222222222,"scrollY":752.8888888888889},
 {"id":35,"expanded":false,"name":"男厕","order":9,"parentId":4,"scrollX":728,"scrollY":397.3333333333333},
 {"id":36,"expanded":false,"name":"女厕","order":10,"parentId":4,"scrollX":1404,"scrollY":766.2857142857142},
 {"id":37,"expanded":false,"name":"超市","order":4,"parentId":34,"scrollX":728,"scrollY":397.3333333333333},
 {"id":38,"expanded":true,"name":"东南城区","order":22,"parentId":0,"scrollX":720.8888888888889,"scrollY":688},
 {"id":39,"expanded":true,"name":"上课的教室","order":5,"parentId":34,"scrollX":720.8888888888889,"scrollY":397.3333333333333},
+=======
+{"id":34,"expanded":false,"name":"学校一楼","order":3,"parentId":4,"scrollX":648.6666666666666,"scrollY":483.3333333333333},
+{"id":35,"expanded":false,"name":"男厕","order":9,"parentId":4,"scrollX":819,"scrollY":452},
+{"id":36,"expanded":false,"name":"女厕","order":10,"parentId":4,"scrollX":546,"scrollY":301.3333333333333},
+{"id":37,"expanded":false,"name":"超市","order":4,"parentId":34,"scrollX":655.2,"scrollY":361.6},
+{"id":38,"expanded":true,"name":"东南城区","order":22,"parentId":0,"scrollX":648.8,"scrollY":1014.4},
+{"id":39,"expanded":false,"name":"上课的教室","order":5,"parentId":34,"scrollX":540.6666666666666,"scrollY":454.6666666666667},
+>>>>>>> 64a7e5c25af0b9853e3ff53e22bbf9f76cc44ec2
 null,
 null,
 null,
@@ -46,5 +74,9 @@ null,
 null,
 null,
 {"id":46,"expanded":false,"name":"学校二楼","order":8,"parentId":34,"scrollX":983.2,"scrollY":532.8},
+<<<<<<< HEAD
 {"id":47,"expanded":true,"name":"供电室","order":7,"parentId":34,"scrollX":728,"scrollY":397.3333333333333}
+=======
+{"id":47,"expanded":true,"name":"供电室","order":7,"parentId":34,"scrollX":819,"scrollY":452}
+>>>>>>> 64a7e5c25af0b9853e3ff53e22bbf9f76cc44ec2
 ]
